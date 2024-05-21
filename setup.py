@@ -31,7 +31,7 @@ setup(
         "aiohttp[speedups]==3.8.1",
         "beautifulsoup4==4.11.1",
         "ruamel.yaml==0.16.13",
-        "requests==2.27.1",
+        "requests==2.32.0",
         "cloudscraper==1.2.60",
         "webdriver-manager==3.7.0",
         "selenium==3.141.0",
